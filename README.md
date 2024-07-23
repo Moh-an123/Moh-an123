@@ -1,22 +1,93 @@
-### Hi there 👋
 
-<!--
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
 
-**Moh-an123/Moh-an123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohanraj Vishvanathan
 
-Here are some ideas to get you started:
+## 💻 Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **📧 Email:** mohanraj08022004@gmail.com
+- **🔗 LinkedIn:** [linkedin.com/in/vmohanraj](https://linkedin.com/in/vmohanraj)
+- **🐙 GitHub:** [github.com/Moh-an123](https://github.com/Moh-an123)
+
+---
+
+### 👨‍💻 Profile
+
+Enthusiastic ECE student with a solid grounding in both hardware and software development. Proficient in multiple programming languages and frameworks, with knowledge of known web technologies. Experienced in building robust, scalable applications with a keen problem-solving aptitude. Hands-on experience with Arduino and ESP32. Eager to apply engineering principles to innovative software solutions in a dynamic development role.
+
+---
+
+### 🛠️ Skills
+
+**Technical:**
+- C
+- C++
+- Java
+- JavaScript
+
+**Web Development:**
+- HTML
+- CSS
+- Node.js
+
+**Soft Skills:**
+- Creative Thinking
+- Fast Learner
+- Adaptability
+- Time Management
+
+---
+
+### 📚 Projects
+
+- **📄 Document Analyzer** *(JavaScript, HTML, CSS)*  
+  *August 2023 – October 2023*
+- **📝 Todo List** *(MERN)*  
+  *December 2023 – February 2024*
+- **💧 Smart Water Monitoring System** *(ESP-32)*  
+  *July 2023 – November 2023*
+- **🔒 Digital Door Lock System** *(Microcontroller-8051)*  
+  *January 2023 – May 2023*
+---
+
+### 💼 Internships
+
+- **Penta Software IT Solutions, Java**  
+  *June 2022 – August 2022*  
+  Learned Java and OOPs Concepts.
+  
+- **Codsoft, Web Development**  
+  *January 2024 – February 2024*  
+  Learned HTML, CSS, and JavaScript.
+
+---
+
+### 🎓 Certifications
+
+- **🏆 Introduction to Programming in C**  
+  *Elite+Silver - NPTEL*
+  
+- **🏅 Data Structures and Algorithm Using Java**  
+  *Elite - NPTEL*
+  
+- **🔌 Electric Circuit**  
+  *NPTEL*
+  
+- **📶 Signals and Systems**  
+  *NPTEL*
+  
+- **📜 Infosys Certificates**
+  
+- **🏅 HackerRank Certificates**
+
+---
+
+### 🏆 Awards
+
+- **🥇 Paper Presentation**  
+  *1st Prize, Paavai College Of Engineering, September 2022*
+
+---
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vmohanraj) or check out my other projects on [GitHub](https://github.com/Moh-an123).
+
+---
