@@ -76,10 +76,6 @@ Enthusiastic ECE student with a solid grounding in both hardware and software de
 - **📶 Signals and Systems**  
   *NPTEL*
   
-- **📜 Infosys Certificates**
-  
-- **🏅 HackerRank Certificates**
-
 ---
 
 ### 🏆 Awards
